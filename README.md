@@ -52,13 +52,12 @@ My focus is on writing maintainable code, learning continuously, and turning ide
 
 ### 🧩 Featured Projects
 - 🍽️ **[PeekABite](https://github.com/ArunSinghDev/peekabite)** – Barcode-based food scanner app with AI-generated nutrition insights  
-- 🎟️ **[SweetQueue](https://github.com/ArunSinghDev/sweetqueue)** – Queue management web app built with React, Node.js, and GraphQL  
-- 🧹 **[ChoreNinja](https://github.com/ArunSinghDev/chore-ninja)** – Mobile app for household chore management using React Native + Firebase  
+- 🎟️ **[SweetQueue](https://github.com/ArunSinghDev/sweetqueue)** – Queue management web app built with React, Node.js, and GraphQL   
 
 ---
 
 ### 📊 GitHub Stats
-![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArunSinghDev&show_icons=true&theme=tokyonight)
+![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-singh-011&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunSinghDev&layout=compact&theme=tokyonight)
 
 ---
