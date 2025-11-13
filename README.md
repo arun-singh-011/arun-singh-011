@@ -19,8 +19,8 @@ My focus is on writing maintainable code, learning continuously, and turning ide
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Singh-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunsinghdev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel&logoColor=white)](https://your-portfolio-link-here.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Singh-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-singh11/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel&logoColor=white)](https://www.arunsingh.tech/)
 
 ---
 
@@ -51,19 +51,19 @@ My focus is on writing maintainable code, learning continuously, and turning ide
 ---
 
 ### 🧩 Featured Projects
-- 🍽️ **[PeekABite](https://github.com/ArunSinghDev/peekabite)** – Barcode-based food scanner app with AI-generated nutrition insights  
-- 🎟️ **[SweetQueue](https://github.com/ArunSinghDev/sweetqueue)** – Queue management web app built with React, Node.js, and GraphQL   
+- 🍽️ **[PeekABite](https://github.com/arun-singh-011/peekabite)** – Barcode-based food scanner app with AI-generated nutrition insights  
+- 🎟️ **[SweetQueue](https://github.com/arun-singh-011/sweetqueue)** – Queue management web app built with React, Node.js, and GraphQL   
 
 ---
 
 ### 📊 GitHub Stats
 ![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-singh-011&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunSinghDev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-singh-011&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ArunSinghDev&theme=tokyonight&no-frame=true&margin-w=5)
+![trophy](https://github-profile-trophy.vercel.app/?username=arun-singh-011&theme=tokyonight&no-frame=true&margin-w=5)
 
 ---
 
