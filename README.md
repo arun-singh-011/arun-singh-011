@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Arun Singh
 
-💻 **Full Stack Developer | React | React Native | Node.js | TypeScript**
+### 💻 **Full Stack Developer | React | React Native | Node.js | TypeScript**
 
 I enjoy building clean, modern, and scalable web and mobile applications.  
 My focus is on writing maintainable code, learning continuously, and turning ideas into real, working products.  
 
 ---
 
-## 💫 About Me
+## 💫 About Me:
 - 🌱 Currently learning and building full-stack apps with **React, Node.js, and Firebase**  
 - 📱 Exploring **mobile app development** with React Native (ChoreNinja App)  
 - 🧠 Gaining hands-on experience through real-world projects — 6 months + 4 months in web development  
@@ -17,13 +17,13 @@ My focus is on writing maintainable code, learning continuously, and turning ide
 
 ---
 
-## 🌐 Social
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Singh-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-singh11/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel&logoColor=white)](https://www.arunsingh.tech/)
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack:
 ### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -49,20 +49,21 @@ My focus is on writing maintainable code, learning continuously, and turning ide
 
 ---
 
-## 🧩 Featured Projects
+### 🧩 Featured Projects
 - 🍽️ **[PeekABite](https://github.com/arun-singh-011/peekabite)** – Barcode-based food scanner app with AI-generated nutrition insights  
 - 🎟️ **[SweetQueue](https://github.com/arun-singh-011/sweetqueue)** – Queue management web app built with React, Node.js, and GraphQL   
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 ![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-singh-011&show_icons=true&theme=tokyonight)
+
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-singh-011&layout=compact&theme=tokyonight)
-
----
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=arun-singh-011&theme=tokyonight&no-frame=true&margin-w=5)
 
 ---
