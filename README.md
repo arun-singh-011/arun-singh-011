@@ -73,7 +73,7 @@ Scan any food barcode and get instant AI-generated nutrition insights, ingredien
 
 **🔗 Links:** [📺 Watch Demo](https://www.youtube.com/watch?v=yQRrk_TNynE)
 
-### 🎟️ [SweetQueue]([https://github.com/arun-singh-011/sweetqueue](https://github.com/arun-singh-011/sweetqueue-ditto))
+### 🎟️ [SweetQueue](https://github.com/arun-singh-011/sweetqueue-ditto)
 **Full-Stack Bakery Management System**
 
 A complete queue management and order tracking system designed for bakeries, replacing pen-and-paper methods with a modern web application.
