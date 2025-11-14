@@ -91,17 +91,21 @@ A complete queue management and order tracking system designed for bakeries, rep
 **🔗 Links:** [Live Demo](https://sweetqueue.vercel.app) | Demo Login: `demo123@gmail.com` / `demo@123`
 
 ---
----
 
-## 📊 GitHub Stats:
-![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-singh-011&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+## 📊 GitHub Stats & Streak:
 
----
+<div align="center">
+  
+![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-singh-011&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arun-singh-011&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-singh-011&layout=compact&theme=tokyonight&hide_border=true)
 
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arun-singh-011&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Arun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arun-singh-011&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies:
