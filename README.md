@@ -2,17 +2,23 @@
 
 ### 💻 **Full Stack Developer | React | React Native | Node.js | TypeScript**
 
-I enjoy building clean, modern, and scalable web and mobile applications.  
-My focus is on writing maintainable code, learning continuously, and turning ideas into real, working products.  
+I'm a full-stack developer who ships real products. From AI-powered nutrition scanners to bakery management systems, I focus on solving actual problems with clean, maintainable code.
+
+---
+## 🚀 What I'm Building Now:
+- 🔥 Refining **PeekABite** - AI nutrition scanner with 1000+ product scans
+- 🎯 Exploring real-time features and WebSocket integrations
+- 📱 Diving deeper into **React Native** and mobile-first architecture
+- 🧠 Learning advanced TypeScript patterns and serverless deployment
 
 ---
 
 ## 💫 About Me:
-- 🌱 Currently learning and building full-stack apps with **React, Node.js, and Firebase**  
-- 📱 Exploring **mobile app development** with React Native (ChoreNinja App)  
-- 🧠 Gaining hands-on experience through real-world projects — 6 months + 4 months in web development  
+- 🌱 Building full-stack apps with **React, Node.js, TypeScript, and Firebase**  
+- 📱 Creating mobile experiences with **React Native**
+- 🔧 10+ months of hands-on development, turning ideas into production-ready apps
 - ☕ Coffee + code = productivity  
-- 🤝 Always open to collaborate on interesting, impactful tech ideas  
+- 🤝 Open to collaborate on interesting, impactful tech projects
 - 🔍 Believe in building in public and learning by doing  
 
 ---
@@ -49,14 +55,42 @@ My focus is on writing maintainable code, learning continuously, and turning ide
 
 ---
 
-### 🧩 Featured Projects
+## 🧩 Featured Projects
 
-- 🍽️ **[PeekABite](https://github.com/arun-singh-011/peekabite)**  
-  *A barcode-based food scanning app with AI-generated nutrition insights, built with React Native, Firebase, and OpenAI.*
+### 🍽️ [PeekABite](https://github.com/arun-singh-011/peekabite)
+**AI-Powered Nutrition Scanner for Smarter Food Choices**
 
-- 🎟️ **[SweetQueue](https://github.com/arun-singh-011/sweetqueue)**  
-  *A queue management web app built using React, Node.js, Express, GraphQL, and Apollo Client.*  
+Scan any food barcode and get instant AI-generated nutrition insights, ingredient breakdowns, and personalized health recommendations.
 
+**🔧 Tech Stack:** React Native • Firebase • OpenAI GPT-4 • Expo Camera
+
+**✨ Key Features:**
+- Real-time barcode scanning with camera integration
+- AI-powered nutrition analysis using GPT-4
+- Cloud-based product database with Firebase Firestore
+- Instant ingredient breakdown and health insights
+- Offline support with local caching
+
+**🔗 Links:** [📺 Watch Demo](https://www.youtube.com/watch?v=yQRrk_TNynE)
+
+### 🎟️ [SweetQueue](https://github.com/arun-singh-011/sweetqueue)
+**Full-Stack Bakery Management System**
+
+A complete queue management and order tracking system designed for bakeries, replacing pen-and-paper methods with a modern web application.
+
+**🔧 Tech Stack:** React • Node.js • Express • GraphQL • Apollo Client • MongoDB
+
+**✨ Key Features:**
+- Real-time order management and tracking
+- Customer relationship management (CRM)
+- Analytics dashboard with visual insights
+- JWT-based authentication and authorization
+- RESTful and GraphQL API endpoints
+- Deployed on Vercel with serverless functions
+
+**🔗 Links:** [Live Demo](https://sweetqueue.vercel.app) | Demo Login: `demo123@gmail.com` / `demo@123`
+
+---
 ---
 
 ## 📊 GitHub Stats:
@@ -67,11 +101,20 @@ My focus is on writing maintainable code, learning continuously, and turning ide
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-singh-011&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-![Arun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arun-singh-011&theme=tokyo-night&hide_border=true)
----
 
 ## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=arun-singh-011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)
+
+---
+## 📫 Let's Connect
+
+💼 **Open to:** Full-time software engineering roles, freelance projects, and collaborations on impactful products
+
+💬 **Always happy to discuss:** React architecture, Node.js best practices, mobile development, or cool project ideas
+
+📧 **Reach out:** [arungurjar011@gmail.com]
+
+🌐 **Portfolio:** [arunsingh.tech](https://www.arunsingh.tech/)
 
 ---
 
