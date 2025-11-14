@@ -57,7 +57,7 @@ I'm a full-stack developer who ships real products. From AI-powered nutrition sc
 
 ## 🧩 Featured Projects
 
-### 🍽️ [PeekABite](https://github.com/arun-singh-011/peekabite)
+### 🍽️ [PeekABite](https://peekabite.vercel.app/)
 **AI-Powered Nutrition Scanner for Smarter Food Choices**
 
 Scan any food barcode and get instant AI-generated nutrition insights, ingredient breakdowns, and personalized health recommendations.
@@ -73,7 +73,7 @@ Scan any food barcode and get instant AI-generated nutrition insights, ingredien
 
 **🔗 Links:** [📺 Watch Demo](https://www.youtube.com/watch?v=yQRrk_TNynE)
 
-### 🎟️ [SweetQueue](https://github.com/arun-singh-011/sweetqueue)
+### 🎟️ [SweetQueue]([https://github.com/arun-singh-011/sweetqueue](https://github.com/arun-singh-011/sweetqueue-ditto))
 **Full-Stack Bakery Management System**
 
 A complete queue management and order tracking system designed for bakeries, replacing pen-and-paper methods with a modern web application.
