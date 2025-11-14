@@ -65,6 +65,9 @@ My focus is on writing maintainable code, learning continuously, and turning ide
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-singh-011&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+![Arun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arun-singh-011&theme=tokyo-night&hide_border=true)
 ---
 
 ## 🏆 GitHub Trophies:
