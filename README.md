@@ -6,7 +6,6 @@ I'm a full-stack developer who ships real products. From AI-powered nutrition sc
 
 ---
 ## 🚀 What I'm Building Now:
-- 🔥 Refining **PeekABite** - AI nutrition scanner with 1000+ product scans
 - 🎯 Exploring real-time features and WebSocket integrations
 - 📱 Diving deeper into **React Native** and mobile-first architecture
 - 🧠 Learning advanced TypeScript patterns and serverless deployment
