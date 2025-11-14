@@ -101,6 +101,8 @@ A complete queue management and order tracking system designed for bakeries, rep
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arun-singh-011&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arun-singh-011&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+---
 
 ## 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=arun-singh-011&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)
