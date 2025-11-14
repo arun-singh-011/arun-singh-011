@@ -18,8 +18,8 @@ My focus is on writing maintainable code, learning continuously, and turning ide
 ---
 
 ## 🌐 Social:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Arun%20Singh-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-singh11/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel&logoColor=white)](https://www.arunsingh.tech/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-Arun%20Singh-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-singh11/)
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel&logoColor=white)](https://www.arunsingh.tech/)
 
 ---
 
