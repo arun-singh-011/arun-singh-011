@@ -17,7 +17,7 @@ I'm a full-stack developer who ships real products. From AI-powered nutrition sc
 - 📱 Creating mobile experiences with **React Native**
 - 🔧 10+ months of hands-on development, turning ideas into production-ready apps
 - ☕ Coffee + code = productivity  
-- 🤝 Open to collaborate on interesting, impactful tech projects
+- 🤝 Open to collaborating on interesting, impactful tech projects
 - 🔍 Believe in building in public and learning by doing  
 
 ---
