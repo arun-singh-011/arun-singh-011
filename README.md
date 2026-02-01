@@ -24,7 +24,7 @@ I'm a full-stack developer who ships real products. From AI-powered nutrition sc
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-singh11/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-arunsingh.tech-black?style=for-the-badge&logo=vercel&logoColor=white)](https://www.arunsingh.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arunsingh.tech-black?style=for-the-badge&logo=vercel&logoColor=white)](https://www.arunsingh.dev/)
 
 ---
 
